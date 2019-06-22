@@ -1,13 +1,13 @@
 # Site settings
-title: daixianseng
+title:代先森 
 SEOTitle: 代先森的博客 | dxs
 header-img: img/post-bg-desk.jpg
 email: tony21703@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 代先森的博客, xianshengdai, 代先森, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://xianshengdai.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/qiubaiying/xianshengdai.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
